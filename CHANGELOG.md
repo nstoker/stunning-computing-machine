@@ -9,6 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## 0.0.0 2019-08-23
+
 Add changelog. Add a `.gitignore` from [NativeScript's](https://github.com/NativeScript/NativeScript/blob/master/.gitignore) github.
 
 Shelving project for now, as it is to run on Android or iOS devices, neither of which I really want to set up my development environment for now.
